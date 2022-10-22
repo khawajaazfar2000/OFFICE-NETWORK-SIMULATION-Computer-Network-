@@ -5,7 +5,9 @@
 <h1 align="center"> Project Summary OFFICE NETWORK SIMULATION</h1>
 
 ### 🗣 Table of Content🔥.
-- What is Database
+- Office Layout
+![image](https://user-images.githubusercontent.com/73386961/197335797-dc6f2183-1d9b-4c73-8d60-7a05630a3c1f.png)
+
 - Database management
 - Introduction Flight Reservation System
 - Benefits
@@ -15,4 +17,3 @@
 - ERD
 
 
-![image](https://user-images.githubusercontent.com/73386961/197335612-9600ebf4-6dd6-45b5-8495-3166a96ade82.png)
