@@ -1,5 +1,5 @@
 <p align="center">
-        <img src="https://user-images.githubusercontent.com/73386961/197335617-eee907f5-99e4-44e4-ac5a-84cc249da78b.png" width="60%"  >
+        <img src="https://user-images.githubusercontent.com/73386961/197335617-eee907f5-99e4-44e4-ac5a-84cc249da78b.png" width="30%"  >
 </p>
 
 <h1 align="center"> Project Summary OFFICE NETWORK SIMULATION</h1>
